@@ -1,0 +1,7 @@
+C:\Users\ashle\Desktop\HTMLand CSS programming\C#\Projects\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\ashle\Desktop\HTMLand CSS programming\C#\Projects\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\ashle\Desktop\HTMLand CSS programming\C#\Projects\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\ashle\Desktop\HTMLand CSS programming\C#\Projects\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\ashle\Desktop\HTMLand CSS programming\C#\Projects\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\ashle\Desktop\HTMLand CSS programming\C#\Projects\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\ashle\Desktop\HTMLand CSS programming\C#\Projects\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
